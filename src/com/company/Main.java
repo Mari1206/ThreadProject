@@ -37,6 +37,11 @@ import java.util.Stack;
         System.out.println("Делаем задачу!");
     }
 
+    //
+    public void superMethod(){
+        System.out.println("Что-то еще делает!");
+    }
+
 
 }
 
